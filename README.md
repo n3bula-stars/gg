@@ -5,6 +5,7 @@ The flagship game site for Galactic Network
 - about:blank systems
 - Clean UI
 - Unbeatable design
+<a href="https://github.com/GalacticNetwork/jordansmathwork-v3">This respritory is old. go to this one instead.</a>
 # Deployment
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/GalacticNetwork/jordansmathwork-v2.5"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
 <a target="_blank" href="https://replit.com/github/GalacticNetwork/jordansmathwork-v2.5"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
